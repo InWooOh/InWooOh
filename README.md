@@ -22,14 +22,14 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 
 ### Libraries/Tools
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-008080?style=flat&logo=faiss&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0052CC?style=flat&logo=faiss&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-2C2D72?style=flat&logo=pinecone&logoColor=white)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=InWooOh&theme=nord_bright)
