@@ -1,7 +1,7 @@
 ## 😄 About me
   
 - 💬  **LinkedIn** <br>
-      
+        https://www.linkedin.com/in/inwoo-oh-420ba633a/
 
 - 📫   **E-mail**  <br>
         dhdlsdn4964@naver.com
